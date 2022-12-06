@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "first_name": "Herc",
+    "last_name": "Avramovitz",
+    "email": "havramovitz0@amazon.com",
+    "gender": "Male"
+  },
+  {
+    "id": 2,
+    "first_name": "Chariot",
+    "last_name": "Wiggington",
+    "email": "cwiggington1@indiegogo.com",
+    "gender": "Male"
+  },
+  {
+    "id": 3,
+    "first_name": "Niki",
+    "last_name": "Wincom",
+    "email": "nwincom2@patch.com",
+    "gender": "Female"
+  },
+  {
+    "id": 4,
+    "first_name": "Sullivan",
+    "last_name": "Howton",
+    "email": "showton3@nih.gov",
+    "gender": "Male"
+  },
+  {
+    "id": 5,
+    "first_name": "Cinderella",
+    "last_name": "Culligan",
+    "email": "cculligan4@bravesites.com",
+    "gender": "Female"
+  },
+  {
+    "id": 6,
+    "first_name": "Cal",
+    "last_name": "Pudge",
+    "email": "cpudge5@gizmodo.com",
+    "gender": "Female"
+  },
+  {
+    "id": 7,
+    "first_name": "Chaddy",
+    "last_name": "Maly",
+    "email": "cmaly6@last.fm",
+    "gender": "Male"
+  },
+  {
+    "id": 8,
+    "first_name": "Adoree",
+    "last_name": "Laffling",
+    "email": "alaffling7@youtube.com",
+    "gender": "Female"
+  },
+  {
+    "id": 9,
+    "first_name": "Alejoa",
+    "last_name": "Quixley",
+    "email": "aquixley8@businessinsider.com",
+    "gender": "Male"
+  },
+  {
+    "id": 10,
+    "first_name": "Norman",
+    "last_name": "Chapellow",
+    "email": "nchapellow9@mapy.cz",
+    "gender": "Male"
+  }
+]
